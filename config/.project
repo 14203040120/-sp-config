@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>config</name>
+	<comment></comment>
+	<projects>
+		<project>sp02-itemservice</project>
+		<project>sp03-userservice</project>
+		<project>sp04-orderservice</project>
+		<project>sp11-zuul</project>
+	</projects>
+	<buildSpec>
+	</buildSpec>
+	<natures>
+	</natures>
+</projectDescription>
